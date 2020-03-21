@@ -1,3 +1,3 @@
-# surrsoft.github.io-x
+# surrsoft.github.io
 
 Hello friend
